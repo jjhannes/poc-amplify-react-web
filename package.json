@@ -1,0 +1,19 @@
+{
+  "name": "poc-amplify-react-web",
+  "version": "1.0.0",
+  "description": "Implement AWS Cognito and Amplify authenticated React static web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjhannes/poc-amplify-react-web.git"
+  },
+  "author": "Hannes Swanepoel (jj.hannes.swanepoel@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjhannes/poc-amplify-react-web/issues"
+  },
+  "homepage": "https://github.com/jjhannes/poc-amplify-react-web#readme"
+}
